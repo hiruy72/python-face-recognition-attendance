@@ -23,13 +23,25 @@ It captures faces through a webcam, matches them with known images, and stores a
    ```
 ---
 
-🧠 Features
+   **🧠 Features**
+   
+   Real-time face detection and recognition
+   
+   Attendance tracking with timestamp
+   
+   CSV and database logging
+   
+   Simple modular code structure
+   
+---
 
-Real-time face detection and recognition
+   **🚀 Future Improvements**
 
-Attendance tracking with timestamp
-
-CSV and database logging
-
-Simple modular code structure
+   Add a Tkinter-based GUI dashboard
+   
+   Integrate cloud storage (Firebase)
+   
+   Export daily or weekly attendance reports
+   
+   Improve recognition accuracy using DeepFace or MediaPipe
 
