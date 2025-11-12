@@ -13,9 +13,9 @@ It captures faces through a webcam, matches them with known images, and stores a
 2. **Create and activate a virtual environment**
 ```bash
        python -m venv venv
-      venv\Scripts\activate      # On Windows
-       # or
-      source venv/bin/activate   # On Mac/Linux
+         venv\Scripts\activate      # On Windows
+          # or
+         source venv/bin/activate   # On Mac/Linux
 ```
 3. **Install dependencies**
    ```bash
